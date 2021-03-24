@@ -1,14 +1,14 @@
 # fastface
 
-I made this because it took me longer than 5 minutes to get a face detector up and running from my webcam. Hopefully this will aid others in getting running in less than 5 minutes. Most of the credit goes to cvlib.
+I made this because it took me longer than 5 minutes to get a face detector up and running from my webcam. Hopefully this will aid others in getting running in less than 5 minutes. 99% of the credit goes to cvlib and opencv.
 
 ## Install
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run
 
-python faceface.py
+`python fastface.py`
 
 ## What Next?
 
